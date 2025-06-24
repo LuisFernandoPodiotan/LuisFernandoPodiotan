@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Luis Fernando
 
-I'm an aspiring full-stack developer passionate about crafting modern web applications.  
-Currently building with **HTML**, **CSS**, **JavaScript**, and **Spring Boot** — and diving into **React** 🚀
+I'm a junior full-stack developer passionate about building practical and user-friendly web applications.  
+I specialize in **Spring Boot**, **JavaScript**, **HTML**, and **CSS** — and I'm currently learning **React** to expand my frontend capabilities 🚀
 
 ---
 
