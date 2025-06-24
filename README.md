@@ -26,7 +26,7 @@ I specialize in **Spring Boot**, **JavaScript**, **HTML**, and **CSS** — and I
 
 > Built for real-world scenarios with modular design, authentication, and RESTful APIs.
 
-🔗 [View Project Repository]([https://github.com/YOUR_USERNAME/EventSphere](https://github.com/LuisFernandoPodiotan/EventSphere_School_Project))
+🔗 [View Project Repository]([https://github.com/YOUR_USERNAME/EventSphere](https://github.com/LuisFernandoPodiotan/EventSphere_School_Project)
 
 
 ---
