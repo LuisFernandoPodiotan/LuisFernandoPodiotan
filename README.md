@@ -14,3 +14,28 @@ Currently building with **HTML**, **CSS**, **JavaScript**, and **Spring Boot** �
 ![React (Learning)](https://img.shields.io/badge/React-Learning-blue?style=for-the-badge&logo=react)
 
 ---
+## 💼 Featured Project
+
+### 🎉 EventSphere — Event Management System
+
+**EventSphere** is a complete event management platform built using **Spring Boot**. It allows users to:
+
+- 📋 Create and manage events
+- 📨 Send and manage notifications
+- 🔐 Register/login with secure access control
+
+---
+## 📚 Currently Learning
+
+- 🔄 Connecting Spring Boot REST APIs with React
+- 🔐 Implementing JWT authentication
+- 🎨 Enhancing UI with responsive, modern design
+- 🌐 Hosting full-stack apps with HTTPS
+
+---
+
+## 📈 GitHub Stats
+
+![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+---
